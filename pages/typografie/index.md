@@ -1,11 +1,10 @@
 ---
 # layout: vertical
-permalink: logo/
+permalink: Typografie/
 published: true
-title: Logo intro
+title: Typografie
 ---
-
-# Logo
+# Typografie
 
 ## Logo intro
 
