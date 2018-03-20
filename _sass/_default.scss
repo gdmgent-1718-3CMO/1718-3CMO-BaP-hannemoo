@@ -33,15 +33,15 @@ h3, h4, h5, h6 {
 }
 a {
     text-decoration: none;
-    color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    color: $mycolor-2;
+    border-bottom: dotted 1px $mycolor-1;
     &:hover{
-        color: $body-link;
+        color: $mycolor-1;
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
+        border-bottom: solid 1px $mycolor-2;
     }
     &:active{
-        background-color: $body-link;
+        background-color: $mycolor-1;
         color: $color-white;
     }
     &:focus{}
@@ -61,7 +61,7 @@ main ul {
     text-indent: -25px;
     &:before {
         content:'\2022';
-        color: $mycolor-5;
+        color: $mycolor-1;
         margin-right: 18px;
     }    
   }
@@ -100,4 +100,57 @@ button, a.btn {
 }
 input[type=text], textarea {
 
+}
+
+//kleurvlakken
+.geel {
+    background-color: $mycolor-3;
+    
+} 
+
+.geel h1 {
+    color: white;
+    
+} 
+.geel p {
+    color: white;
+    
+} 
+
+.blauw {
+    background-color: $mycolor-2;
+} 
+
+.blauw h1{
+    color: white;
+} 
+
+.blauw p{
+    color:white;
+} 
+
+
+.donkerblauw {
+    background-color: $mycolor-1;
+} 
+
+.donkerblauw h1{
+    color: white;
+} 
+
+.donkerblauw p{
+    color: white;
+} 
+
+
+.card-img-top {
+    height: 170px;
+}
+
+.1 {
+    background-color: rgb(240, 199, 38);
+}
+
+.card {
+    margin-bottom: 15px;
 }
