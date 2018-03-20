@@ -25,9 +25,9 @@ $body-link: $mycolor-5;
 
 
 // Client specific
-$clientcolor-1:rgba(120,250,250,1);
-$clientcolor-2:rgba(120,250,250,1);
-$clientcolor-3:rgba(120,250,250,1);
+$clientcolor-1:rgba(48,56,128,1);
+$clientcolor-2:rgba(109,182,195,1);
+$clientcolor-3:rgba(255,237,0,1);
 $clientcolor-4:rgba(120,250,250,1);
 $clientcolor-5:rgba(250,120,120,1);
 
@@ -43,7 +43,7 @@ $clientcolor-5:rgba(250,120,120,1);
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
 // type
-$myfont-family-base: 'Raleway', serif;
+$myfont-family-base: 'Muli', sans-serif;
 $myfont-family-title: $myfont-family-base;
 
 // sizes

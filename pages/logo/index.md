@@ -7,7 +7,7 @@ title: Logo intro
 
 # Logo
 
-## Logo intro
+## <span style="color:#6DB6C3">1.</span>Logo intro
 
 In de omgeving klinkt De Bosuil al jaren bekent in de oren. De Bosuil bevindt zich dan ook in de Bosuilstraat en heeft een hele geschiedenis. <b>Het symbool van de uil staat</b> dan ook blijvend <b>centraal</b> in het logo. 
 

@@ -15,14 +15,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-weight: $font-weight-light;
+    font-weight: $font-weight-bold;
     font-size: 4rem;
-    color: $color-grey-2;
+    color: rgba(48,56,128,1);
 }
 h2 {
-    font-weight: $font-weight-light;
-    font-size: 2rem;
+    font-weight: $font-weight-bold;
+    font-size: 1rem;
     margin: 2rem 0 1rem;
+    color: rgba(48,56,128,1);
+    text-transform: uppercase;
+
 }
 h3, h4, h5, h6 {
     font-size: 1rem;
@@ -45,7 +48,7 @@ a {
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    border-left: 2px solid $mycolor-2;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
