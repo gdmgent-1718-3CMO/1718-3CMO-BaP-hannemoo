@@ -36,3 +36,9 @@
   # folder: pages/stijlgids
   permalink: /stijlgids
   # fa-icon: icon-info
+
+- name: Downloads
+  description: Downloads
+  folder: pages/downloads
+  permalink: /downloads
+  # fa-icon: icon-info
