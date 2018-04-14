@@ -27,10 +27,12 @@ h2 {
     text-transform: uppercase;
 
 }
+
 h3, h4, h5, h6 {
     font-size: 1rem;
     margin: 2rem 0 0;
 }
+
 a {
     text-decoration: none;
     color: $mycolor-2;
@@ -46,9 +48,14 @@ a {
     }
     &:focus{}
 }
+
 blockquote {
     padding-left: 24px;
     border-left: 2px solid $mycolor-2;
+}
+
+p {
+  margin-bottom: 0.5rem;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -93,7 +100,6 @@ main ol {
 
 //forms 
 button, a.btn {
-    
     &:hover{}
     &:active{}
     &:focus{}
@@ -105,7 +111,6 @@ input[type=text], textarea {
 //kleurvlakken
 .geel {
     background-color: $mycolor-3;
-    
 } 
 
 .geel h1 {
@@ -114,7 +119,6 @@ input[type=text], textarea {
 } 
 .geel p {
     color: white;
-    
 } 
 
 .blauw {
@@ -129,7 +133,6 @@ input[type=text], textarea {
     color:white;
 } 
 
-
 .donkerblauw {
     background-color: $mycolor-1;
 } 
@@ -141,7 +144,6 @@ input[type=text], textarea {
 .donkerblauw p{
     color: white;
 } 
-
 
 .card-img-top {
     height: 170px;
