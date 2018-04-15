@@ -18,6 +18,7 @@ h1 {
   font-weight: $font-weight-bold;
   font-size: 4rem;
   color: rgba(48, 56, 128, 1);
+  margin-top: 12px;
 }
 
 h2 {
@@ -34,9 +35,10 @@ h3, h4, h5, h6 {
   margin: 2rem 0 0;
 }
 
-h3 {
-  font-size: 0.9rem;
+.h3-logo {
+  font-size: 0.8rem;
   font-weight: normal;
+  margin-top: 1rem;
 }
 
 a {
@@ -148,6 +150,10 @@ input[type=text], textarea {
   color: white;
 }
 
+.schaduwblauw {
+  background-color: #2E8695;
+}
+
 .card-img-top {
   height: 170px;
 }
@@ -162,4 +168,12 @@ input[type=text], textarea {
 
 .row-margin-bottom {
   margin-bottom: 50px;
+}
+
+#huisstijlgids {
+  margin-top: 12px;
+}
+
+.row {
+  margin-top: 15px;
 }
